@@ -1,0 +1,49 @@
+#title {
+    color: black;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(87, 180, 89);
+    font-weight:bold;
+    font-size: 50px;
+}
+
+.subtitle{
+    color: black;
+    margin: 0;
+}
+
+.Generic_Image1 {
+    border: 1px solid black;
+}
+
+.paragraph {
+    color: black;
+    font-style: italic;
+    padding: 0;
+    padding-top: 10px;
+}
+
+body {
+    font-family: Arial;
+    background-color: rgb(197, 238, 175);
+    margin: auto;
+    max-width: 90%;
+}
+
+footer {    
+    background-color: rgb(87, 180, 89);
+    border: 3px solid black;
+    padding: 25px;
+    margin-top: 25px;
+    }
+
+section {
+    border: solid black 3px;
+    background-color: rgb(87, 180, 89);
+    padding:2%;
+}
+
+.contact_list {
+list-style-type: circle;
+padding: 10px;
+}
